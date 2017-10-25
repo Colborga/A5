@@ -28,6 +28,7 @@ import signal
 
 # To run this using instructor's code, insert
 from A5 import *
+import numpy as np
 # before the
 #  %run -i A5grader.py
 
